@@ -9,5 +9,5 @@
  @apply bg-blue-700; 
 }
 .btn-blue:hover{
-    @apply  bg-green-600;
+    @apply  bg-red-400;
 }
